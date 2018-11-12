@@ -2,13 +2,13 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name><![CDATA[knasan projects]]></name>
-    <description lang="en"><![CDATA[knasan projects]]></description>
+    <name><![CDATA[knasan devel projects]]></name>
+    <description lang="en"><![CDATA[knasan devel projects]]></description>
     <homepage>https://gitbub.com/knasan/</homepage>
     <owner type="person">
       <email>ebuilds@knasan.de</email>
       <name><![CDATA[Sandy Marko Knauer]]></name>
     </owner>
-    <source type="git">https://gitbub.com/knasan/gentoo-overlay</source>
+		<source type="git">https://gitbub.com/knasan/gentoo-overlay.git</source>
   </repo>
 </repositories>
