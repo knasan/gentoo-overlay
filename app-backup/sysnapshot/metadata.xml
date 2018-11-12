@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer restrict="&gt;app-backup/sysnapshot" type="person">
+    <email>ebuilds@knasan.de</email>
+  </maintainer>
+  <upstream>
+    <remote-id type="github">sysnapshot</remote-id>
+  </upstream>
+</pkgmetadata>
