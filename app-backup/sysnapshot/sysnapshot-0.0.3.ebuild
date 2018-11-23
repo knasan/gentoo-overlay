@@ -9,6 +9,7 @@ inherit git-r3
 DESCRIPTION="A filesystem backup utility based on rsync written in ruby"
 HOMEPAGE="http://github.com/knasan/sysnapshot"
 EGIT_REPO_URI="git://github.com/knasan/sysnapshot.git"
+EGIT_COMMIT="sysnapshot-v0.0.3"
 
 LICENSE="GPL-2"
 SLOT="0"
